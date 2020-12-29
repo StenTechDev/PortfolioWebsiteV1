@@ -3,4 +3,4 @@ This is my first portfolio website created with the guidance from Dr. Angela Yu 
 
 This is a minimalistic, html portfolio website.
 
-To view the website, visit: https://stentechdev-min-portfolio-v1.netlify.app
+To view this website, visit: https://stentechdev-min-portfolio-v1.netlify.app
